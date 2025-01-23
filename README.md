@@ -1,6 +1,5 @@
 # tb2_pemrograman_mobile
-
-A new Flutter project.
+PROJECT UAS DAN TB2
 
 ## Getting Started
 
